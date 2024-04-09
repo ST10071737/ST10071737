@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+#im a Application development student at varsity collage
 <!--
 **ST10071737/ST10071737** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
